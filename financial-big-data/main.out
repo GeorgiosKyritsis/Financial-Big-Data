@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Getting and cleaning Data}{}% 1
+\BOOKMARK [1][-]{section.2}{Statistical exploration of assets returns}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Absence of simple arbitrage}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Fat-Tailed distribution of returns}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Volatility Clustering}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Other Stylized Facts}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Analysis based on Covariance Matrix}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Minimum variance Portfolio}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Mean variance Portfolio}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Comparison}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Machine Learning for forecasting financial time series}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{SVM}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{NN}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.3}{Comparison}{section.4}% 14
+\BOOKMARK [1][-]{section.5}{Conclusions}{}% 15
